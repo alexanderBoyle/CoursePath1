@@ -13,7 +13,7 @@ namespace starting_beginning
             Weather.Report("Bologna", 23, 65);
 
             //Console.WriteLine(FahrenheitToCelsius(80).ToString("0.0"));
-
+            //trying out test for Github 
             //string[] interestingAnimals = { "Aardvark", "Binturong", "Pangolin" };
             //string anInterestingAnimal = interestingAnimals[0];
             //Console.WriteLine(anInterestingAnimal);
