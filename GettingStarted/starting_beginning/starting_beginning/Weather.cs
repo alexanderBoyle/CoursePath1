@@ -21,7 +21,6 @@ namespace starting_beginning
         static public float ComfortIndex(float temperatureFahrenheit, float humidityPercent)
         {
             //Probaly not a very reliabble formula:
-            //trying out test for Github 
             return (temperatureFahrenheit + humidityPercent) / 4;
         }
         static public void Report(string location, float temperatureCelsius, float humidity)
