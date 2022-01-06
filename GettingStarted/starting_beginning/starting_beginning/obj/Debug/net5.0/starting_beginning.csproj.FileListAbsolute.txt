@@ -1,0 +1,16 @@
+C:\programmingCourses\Self_Learning\prb\CoursePath1\GettingStarted\starting_beginning\starting_beginning\bin\Debug\net5.0\starting_beginning.exe
+C:\programmingCourses\Self_Learning\prb\CoursePath1\GettingStarted\starting_beginning\starting_beginning\bin\Debug\net5.0\starting_beginning.deps.json
+C:\programmingCourses\Self_Learning\prb\CoursePath1\GettingStarted\starting_beginning\starting_beginning\bin\Debug\net5.0\starting_beginning.runtimeconfig.json
+C:\programmingCourses\Self_Learning\prb\CoursePath1\GettingStarted\starting_beginning\starting_beginning\bin\Debug\net5.0\starting_beginning.runtimeconfig.dev.json
+C:\programmingCourses\Self_Learning\prb\CoursePath1\GettingStarted\starting_beginning\starting_beginning\bin\Debug\net5.0\starting_beginning.dll
+C:\programmingCourses\Self_Learning\prb\CoursePath1\GettingStarted\starting_beginning\starting_beginning\bin\Debug\net5.0\ref\starting_beginning.dll
+C:\programmingCourses\Self_Learning\prb\CoursePath1\GettingStarted\starting_beginning\starting_beginning\bin\Debug\net5.0\starting_beginning.pdb
+C:\programmingCourses\Self_Learning\prb\CoursePath1\GettingStarted\starting_beginning\starting_beginning\obj\Debug\net5.0\starting_beginning.csprojAssemblyReference.cache
+C:\programmingCourses\Self_Learning\prb\CoursePath1\GettingStarted\starting_beginning\starting_beginning\obj\Debug\net5.0\starting_beginning.GeneratedMSBuildEditorConfig.editorconfig
+C:\programmingCourses\Self_Learning\prb\CoursePath1\GettingStarted\starting_beginning\starting_beginning\obj\Debug\net5.0\starting_beginning.AssemblyInfoInputs.cache
+C:\programmingCourses\Self_Learning\prb\CoursePath1\GettingStarted\starting_beginning\starting_beginning\obj\Debug\net5.0\starting_beginning.AssemblyInfo.cs
+C:\programmingCourses\Self_Learning\prb\CoursePath1\GettingStarted\starting_beginning\starting_beginning\obj\Debug\net5.0\starting_beginning.csproj.CoreCompileInputs.cache
+C:\programmingCourses\Self_Learning\prb\CoursePath1\GettingStarted\starting_beginning\starting_beginning\obj\Debug\net5.0\starting_beginning.dll
+C:\programmingCourses\Self_Learning\prb\CoursePath1\GettingStarted\starting_beginning\starting_beginning\obj\Debug\net5.0\ref\starting_beginning.dll
+C:\programmingCourses\Self_Learning\prb\CoursePath1\GettingStarted\starting_beginning\starting_beginning\obj\Debug\net5.0\starting_beginning.pdb
+C:\programmingCourses\Self_Learning\prb\CoursePath1\GettingStarted\starting_beginning\starting_beginning\obj\Debug\net5.0\starting_beginning.genruntimeconfig.cache
